@@ -30,7 +30,7 @@ Some benefits of S3 buckets are:
 
 Using three Python scripts I will be creating an S3 bucket, adding a file and then downloading it: 
 
-![S3 bucket and file img](img/s3_bucket_and_file.png)
+![S3 bucket and file img](img/s3_bucket.png)
 
 The first step was to install the AWS command line interface on pycharm using pip.
 
